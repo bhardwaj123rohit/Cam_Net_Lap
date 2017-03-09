@@ -1,0 +1,8 @@
+prefix=/home/thinkpad/catkin_ws/devel
+
+Name: pubImg
+Description: Description of pubImg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/thinkpad/catkin_ws/devel/lib 
+Requires: 

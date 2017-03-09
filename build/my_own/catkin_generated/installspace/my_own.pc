@@ -1,0 +1,8 @@
+prefix=/home/thinkpad/catkin_ws/install
+
+Name: my_own
+Description: Description of my_own
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/thinkpad/catkin_ws/install/lib 
+Requires: 

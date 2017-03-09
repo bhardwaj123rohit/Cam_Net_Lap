@@ -1,0 +1,2 @@
+async_web_server_cpp:hog_haar_person_detection:learn_ball:my_own:pubImg:video_stream_opencv:web_video_server
+-DCATKIN_DEVEL_PREFIX=/home/thinkpad/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/thinkpad/catkin_ws/install -G Unix Makefiles

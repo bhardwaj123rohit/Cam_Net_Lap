@@ -1,0 +1,8 @@
+prefix=/home/thinkpad/catkin_ws/devel
+
+Name: hog_haar_person_detection
+Description: Description of hog_haar_person_detection
+Version: 0.0.0
+Cflags: -I/home/thinkpad/catkin_ws/devel/include
+Libs: -L/home/thinkpad/catkin_ws/devel/lib 
+Requires: message_runtime
